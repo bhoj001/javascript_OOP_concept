@@ -1,3 +1,9 @@
+/*
+This exercise is about stop watch 
+we can start stop and see the duration of a stop watch 
+unit used is in seconds
+*/
+
 function Stopwatch(){
     let starttime = 0;
     let stoptime = 0;
